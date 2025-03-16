@@ -1,0 +1,12 @@
+.order-history-title {
+    padding: 50px;
+    background: #F6F5FF;
+    color: #101750;
+    font-weight: 600;
+    font-size: 36px;
+}
+
+.user-order-table{
+    margin-top: 4rem;
+    margin-bottom: 16rem;
+}

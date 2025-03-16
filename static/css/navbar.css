@@ -1,0 +1,57 @@
+.navbar_design1 {
+    background: #7E33E0;
+    display: flex;
+    /*justify-content:space-evenly !important;*/
+    color: white;
+
+
+}
+
+.navbar_design {
+    display: flex;
+    background: white;
+    color: black !important;
+    justify-content: space-between !important;
+
+}
+
+.email {
+    margin-right: 9rem;
+
+}
+
+.navbar-brand {
+    /*margin-right: 15rem !important;*/
+}
+
+.email-div {
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.image {
+    height: 19px;
+    margin-right: 10px;
+}
+
+.top-navbar {
+    font-size: 20px;
+}
+
+
+.top-navbar a{
+    color:  white !important;
+}
+
+.bottom-navbar {
+    /*margin-right: 10rem;*/
+    display: flex;
+    justify-content: space-between;
+}
+.bottom-navbar a{
+    color: black;
+}
+.search-button {
+    background: #dc3545 !important;
+}
